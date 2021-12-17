@@ -1,0 +1,7 @@
+{
+  "name": "GoogleCaptchaExample-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
